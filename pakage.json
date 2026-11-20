@@ -1,0 +1,9 @@
+{
+  "name": "rajxweb-secure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Raj X Web - Secure Backend",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
